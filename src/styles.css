@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(11, 244, 3);
+}
+li {
+  color: rgb(0, 0, 0);
+}
+button {
+  border-radius: 1%;
+}
